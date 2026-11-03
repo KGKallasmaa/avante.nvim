@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.5.1](https://github.com/avante-corp/avante.nvim/compare/v0.5.0...v0.5.1) (2026-11-03)
+
+
+### Features
+
+* **Avante:** set ft=Avante options in its own file ([9fd188c](https://github.com/avante-corp/avante.nvim/commit/9fd188c5a037cf338b270387151702f0538c6bf1))
+* **web_search:** add Outcrawl search engine ([a9b9c79](https://github.com/avante-corp/avante.nvim/commit/a9b9c79ed62a74ab24e5c0db788c9a128107a475))
+
+
+### Bug Fixes
+
+* **Avante:** fillchars and winbar are set later ([7094c3d](https://github.com/avante-corp/avante.nvim/commit/7094c3d7eb7d667572149f52179444fa71fc6ab8))
+* **ci:** align build toolchains and dependency paths ([188b793](https://github.com/avante-corp/avante.nvim/commit/188b793c264285ee147c74db14a9f78a22ca7b8f))
+* **ci:** fix macOS architecture and Lua runtime ([bbddb5a](https://github.com/avante-corp/avante.nvim/commit/bbddb5aaac78cf6dee7b4ca313c75ecea69a131b))
+
 ## [0.5.0](https://github.com/avante-corp/avante.nvim/compare/v0.5.0...v0.5.0) (2026-10-31)
 
 
